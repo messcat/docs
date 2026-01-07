@@ -2,9 +2,7 @@
 
 ## Connecting Facebook & Instagram to Messcat: Quick Links
 
-Welcome! This page provides quick links to help you connect your Facebook and Instagram channels to Messcatand understand its features.
-
-![Product Update Content  IG FB.gif](Facebook%20and%20Instagram%20Channel%20Introduction/Product_Update_Content__IG_FB.gif)
+Welcome! This page provides quick links to help you connect your Facebook and Instagram channels to Messcat and understand its features.
 
 ## Get Started: Connecting Your Channels
 
