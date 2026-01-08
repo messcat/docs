@@ -27,7 +27,7 @@ site_author = "<your name here>"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-#site_url = "https://docs.messcat.ai"
+site_url = "https://docs.messcat.ai"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
@@ -93,7 +93,7 @@ Copyright &copy; 2025 ADHIRAJ TECHNOLOGY PARTNERS - FZCO. All rights reserved.
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
-#favicon = "images/favicon.png"
+favicon = "assets/Faviconsvg.ico"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -292,8 +292,8 @@ toggle.name = "Switch to light mode"
 # - https://zensical.org/docs/setup/logo-and-icons
 # - https://zensical.org/docs/authoring/icons-emojis/#search
 # ----------------------------------------------------------------------------
-#[project.theme.icon]
-#logo = "lucide/smile"
+[project.theme.icon]
+logo = "assets/logo.png"
 #repo = "lucide/smile"
 
 # ----------------------------------------------------------------------------
