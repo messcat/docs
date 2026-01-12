@@ -52,4 +52,4 @@ Messcat lets you see and respond to comments on your posts, Reels, and live vide
 
 Want to automate your comment replies? Try using our comment trigger feature! 
 
-Learn more at [**Automating Comments with Triggers (Instagram & Messenger)**](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/automating-comments-with-triggers-instagram--messenger/4tRLecCQkSRgopTHDFfKfS)
+Learn more at [**Automating Comments with Triggers (Instagram & Messenger)**](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/automating-comments-with-triggers-instagram--messenger/4tRLecCQkSRgopTHDFfKfS)

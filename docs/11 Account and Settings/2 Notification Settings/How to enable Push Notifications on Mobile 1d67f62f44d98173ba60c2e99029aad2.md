@@ -7,7 +7,7 @@ This guide will walk you through setting up notifications on both iOS and Androi
 ## Before You Begin
 
 - Make sure you have the Messcat Mobile App installed on your device.
-- Refer to [**How to Install the WebPhone App?**](https://help.Messcat.tech/getting-started/922MY2B1hVzdtQHBsTicEx/how-to-install-the-webphone-app/ihepFtHGf9uy1Zm3HUAqM9)
+- Refer to [**How to Install the WebPhone App?**](https://help.messcat.ai/getting-started/922MY2B1hVzdtQHBsTicEx/how-to-install-the-webphone-app/ihepFtHGf9uy1Zm3HUAqM9)
 
 ## Steps
 

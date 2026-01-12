@@ -21,7 +21,7 @@ Step 3: Click on the “Export” button below the search bar
 
 ![Screenshot 2025-02-24 at 4.46.31 PM.png](How%20to%20import%20export%20Message%20Flows/Screenshot_2025-02-24_at_4.46.31_PM.png)
 
-Step 4: Select whether you want to include the values of the flow variables with your export or not. Find out more about flow variables [here](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/flow-variables/vPrCvh6mu2cFo7q2iwP2aQ). Then, click “Export”
+Step 4: Select whether you want to include the values of the flow variables with your export or not. Find out more about flow variables [here](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/flow-variables/vPrCvh6mu2cFo7q2iwP2aQ). Then, click “Export”
 
 ![Screenshot 2025-02-24 at 4.48.37 PM.png](How%20to%20import%20export%20Message%20Flows/Screenshot_2025-02-24_at_4.48.37_PM.png)
 

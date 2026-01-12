@@ -28,7 +28,7 @@ This guide will walk you through the process of downgrading your number, so you 
 
 </aside>
 
-Click [here](https://help.Messcat.tech/channels/7CJ14joY5QWstXQmUwxMXx/how-to-delete-your-whatsapp-account/srjNrRHgkWYjMKuBKKB7M3) for steps to delete your WhatsApp Messenger/Business App
+Click [here](https://help.messcat.ai/channels/7CJ14joY5QWstXQmUwxMXx/how-to-delete-your-whatsapp-account/srjNrRHgkWYjMKuBKKB7M3) for steps to delete your WhatsApp Messenger/Business App
 
 # If you delete your basic WhatsApp Messenger/Business App account:
 

@@ -14,7 +14,7 @@ Putting an AI on the frontlines can be risky — it could hallucinate, give fals
 
 ### 1. Installing the Template
 
-We’d recommend installing this template to get the demo running ASAP, by clicking [here](https://beta.Messcat.tech/automation/messageFlows/addEdit/new?templateId=132).
+We’d recommend installing this template to get the demo running ASAP, by clicking [here](https://beta.messcat.ai/automation/messageFlows/addEdit/new?templateId=132).
 
 - Once it opens, it’ll ask for variable inputs:
     - Enter any one of your team members to start with

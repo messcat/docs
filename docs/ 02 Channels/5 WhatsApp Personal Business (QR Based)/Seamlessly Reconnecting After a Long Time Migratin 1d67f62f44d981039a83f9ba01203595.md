@@ -8,7 +8,7 @@ Note: Any groups you were part of with the old number will have to be rejoined. 
 
 You can follow this guide in case your phone number got banned, and you’re reconnecting the same number, or you installed the same phone number on a new phone or simply reconnecting after having been disconnected for a while
 
-1. On the Messcat dashboard, navigate to the [Manage Channels](https://www.app.Messcat.tech/root-inbox/channels) page
+1. On the Messcat dashboard, navigate to the [Manage Channels](https://www.app.messcat.ai/root-inbox/channels) page
     
     ![Screenshot 2025-01-31 at 12.35.45 PM.png](../The%20Basics/How%20to%20auto-assign%20chats/Screenshot_2025-01-31_at_12.35.45_PM.png)
     
@@ -21,7 +21,7 @@ You can follow this guide in case your phone number got banned, and you’re rec
     
     ![20250131-170335.jpeg](Seamlessly%20Reconnecting%20After%20a%20Long%20Time%20Migratin/20250131-170335.jpeg)
     
-2. If you are worried about the WhatsApp sync overriding the archive, pin, unread chats on your system, disable “Native Chat Action Sync” before reconnecting. You can read more about this in our guide [here](https://help.Messcat.tech/channels/7CJ14joY5QWstXQmUwxMXx/understanding-chat-action-sync/3ERGcvXVFGkpdJWnjVVgbN)
+2. If you are worried about the WhatsApp sync overriding the archive, pin, unread chats on your system, disable “Native Chat Action Sync” before reconnecting. You can read more about this in our guide [here](https://help.messcat.ai/channels/7CJ14joY5QWstXQmUwxMXx/understanding-chat-action-sync/3ERGcvXVFGkpdJWnjVVgbN)
     
     ![Screenshot 2025-03-01 at 5.29.06 PM.png](Seamlessly%20Reconnecting%20After%20a%20Long%20Time%20Migratin/Screenshot_2025-03-01_at_5.29.06_PM.png)
     

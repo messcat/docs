@@ -16,7 +16,7 @@ If you're experiencing channel frequent disconnections with , it can significant
 
 ## 3. Troubleshooting Tips
 
-- **Disable Chat action sync**: To potentially reduce disconnection issues, try disabling the action sync feature. Refer to [this documentation for steps](https://help.Messcat.tech/channels/7CJ14joY5QWstXQmUwxMXx/understanding-chat-action-sync/3ERGcvXVFGkpdJWnjVVgbN).
+- **Disable Chat action sync**: To potentially reduce disconnection issues, try disabling the action sync feature. Refer to [this documentation for steps](https://help.messcat.ai/channels/7CJ14joY5QWstXQmUwxMXx/understanding-chat-action-sync/3ERGcvXVFGkpdJWnjVVgbN).
 - **Check WhatsApp Server Status:** Look for any reported issues on WhatsApp's official channels.
 - **Regular Updates:** Keep your WhatsApp up-to-date to ensure compatibility and security.
 - **Test Manually:** Try connecting to WhatsApp Web directly to determine whether the issue lies with  or your network connection.

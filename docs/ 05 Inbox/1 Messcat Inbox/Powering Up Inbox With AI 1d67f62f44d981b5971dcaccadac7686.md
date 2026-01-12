@@ -57,4 +57,4 @@ Transcribed messages behave the same way as regular text messages, so you can ut
 
 ### 3. What is the pricing for these features?
 
-Transcription costs **10 credits/minute** of audio, and transcribe is **1 credit/use.** For latest pricing refer to our [billing page](http://app.Messcat.tech/pricing)
+Transcription costs **10 credits/minute** of audio, and transcribe is **1 credit/use.** For latest pricing refer to our [billing page](http://app.messcat.ai/pricing)

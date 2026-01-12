@@ -9,7 +9,7 @@ So instead of saying just: “Hi there, we’re running a 20% sale — limited t
 
 The second option would have a lot more appeal to the end customer, since it seems targeted directly to them. We obviously don’t want to create a 1000 different flows for each customer, that’d be a waste of time for all of us! Instead, we achieve this using variables in message flows. Let’s see how:
 
-1. Create a message flow. Not sure how to? See our quick 5 minute guide [here](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/message-flows-video-walkthrough/qEJrZyucCz2RyCQHZc4LDF)
+1. Create a message flow. Not sure how to? See our quick 5 minute guide [here](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/message-flows-video-walkthrough/qEJrZyucCz2RyCQHZc4LDF)
 2. Once we have a message node, let’s start editing
     
     ![Screenshot 2024-07-03 at 11.18.30 AM.png](Intro%20to%20Variables/Screenshot_2024-07-03_at_11.18.30_AM.png)

@@ -9,7 +9,7 @@ Your **Team ID** is a unique identifier used for support, integration, and billi
 
 ## 📍 Step 1: Log into Messcat
 
-Go to [https://app.Messcat.tech](https://app.Messcat.tech) and log in with your account credentials.
+Go to [https://app.messcat.ai](https://app.messcat.ai) and log in with your account credentials.
 
 ![Screenshot 2025-04-04 at 1.36.32 PM.png](../../CRM/Contacts/How%20to%20bulk%20reassign%20contacts%20to%20a%20different%20teamm/Screenshot_2025-04-04_at_1.36.32_PM.png)
 

@@ -27,4 +27,4 @@ You can change the assignee of a contact in Messcat using three different method
 ![Screenshot 2024-12-16 at 5.15.08 PM.png](How%20to%20Change%20the%20Assignee%20of%20a%20Contact/Screenshot_2024-12-16_at_5.15.08_PM.png)
 
 1. **Automate Assignments**: Use message flows to automatically reassign contacts.
-2. **Action Blocks**: Add an **“[Action](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-action-node/2hMwkGyPQrEx4kGdQVftyv)”** or **“[Modify Contact](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-the-modify-contact-node/3gRYWsiT6aJ6wUxBEQUaUq)”** block within the flow to change the contact’s assignee based on predefined conditions.
+2. **Action Blocks**: Add an **“[Action](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-action-node/2hMwkGyPQrEx4kGdQVftyv)”** or **“[Modify Contact](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-the-modify-contact-node/3gRYWsiT6aJ6wUxBEQUaUq)”** block within the flow to change the contact’s assignee based on predefined conditions.

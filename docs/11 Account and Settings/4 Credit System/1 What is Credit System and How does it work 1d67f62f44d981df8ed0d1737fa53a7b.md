@@ -31,7 +31,7 @@
 ### **1. Access Billing Settings**
 
 - On the Messcat dashboard, locate the **Settings** option in the left menu bar.
-- Click on **Settings** and navigate to the **Billing** section, or click [here](https://www.app.Messcat.tech/credits/recurring) for quick access.
+- Click on **Settings** and navigate to the **Billing** section, or click [here](https://www.app.messcat.ai/credits/recurring) for quick access.
 
 ### **2. Top Up Credits**
 
@@ -70,7 +70,7 @@
 ### **1. Access Billing Settings:**
 
 - On the Messcat dashboard, locate the **Settings** option in the left menu bar.
-- Click on **Settings** and navigate to the **Billing** section, or click [here](https://www.app.Messcat.tech/credits/recurring) for quick access.
+- Click on **Settings** and navigate to the **Billing** section, or click [here](https://www.app.messcat.ai/credits/recurring) for quick access.
 
 ### **2. Manage Your Plan:**
 

@@ -58,7 +58,7 @@ Here is your OTP: {{verificationCode}}
 ### Requirements for the API Request
 
 - **Your API Token**: "Bearer" + Space( ) + The token you generated in Step 3. For example: **Bearer apit_KjLAhuzJIdAA9SpZfLEUOAMs8D1450k16ppuRW**
-- **The bot ID**: The ID of the message flow you created in Step 1. This can be found at the end of the URL of your message flow. For example, if your URL is https://www.app.Messcat.tech/automation/messageFlows/addEdit/**bot_8d3b30d69965baf7 ,** your bot ID would be **bot_8d3b30d69965baf7**.
+- **The bot ID**: The ID of the message flow you created in Step 1. This can be found at the end of the URL of your message flow. For example, if your URL is https://www.app.messcat.ai/automation/messageFlows/addEdit/**bot_8d3b30d69965baf7 ,** your bot ID would be **bot_8d3b30d69965baf7**.
 - **Receiver's Phone Number**: The phone number of the recipient with the country code.
 - **Your Account ID(optional)**: In case you have multiple channels, you can select which channel you want to send the message from by going to "Manage Channels" and copying the **ID** of your channel
 - **Pre-generated OTP**: The OTP you want to send to your client.
@@ -82,7 +82,7 @@ CONTACT_WITH_COUNTRY_CODE : 918074906794
 
 YOUR_OTP : 123456
 
-> `const url = 'https://api-bots.Messcat.tech/bots/**YOUR_BOT_ID**/fire';
+> `const url = 'https://api-bots.messcat.ai/bots/**YOUR_BOT_ID**/fire';
 const options = {
   method: 'POST',
   headers: {

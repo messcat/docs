@@ -23,7 +23,7 @@ If your messages are not synced as expected between Whatsapp and Messcat, these 
     ![1280X1280.PNG.png](Why%20are%20my%20messages%20not%20syncing/1280X1280.PNG.png)
     
 
-[https://help.Messcat.tech/inbox-/fZtwDNaJhZrhvo3UfHtK5f/how-to-fix-“message-is-not-available”-issue/eWRaHBJDyKQnDZmv2SrVaq](https://help.Messcat.tech/inbox-/fZtwDNaJhZrhvo3UfHtK5f/how-to-fix-%E2%80%9Cmessage-is-not-available%E2%80%9D-issue/eWRaHBJDyKQnDZmv2SrVaq)
+[https://help.messcat.ai/inbox-/fZtwDNaJhZrhvo3UfHtK5f/how-to-fix-“message-is-not-available”-issue/eWRaHBJDyKQnDZmv2SrVaq](https://help.messcat.ai/inbox-/fZtwDNaJhZrhvo3UfHtK5f/how-to-fix-%E2%80%9Cmessage-is-not-available%E2%80%9D-issue/eWRaHBJDyKQnDZmv2SrVaq)
 
 1. **~~Full message history not present** - The entire message history for multi-device connection is not supported by WhatsApp. Some chats may have more history than other chats, Whatsapp Web may have more or less history for some chats — it’s very flaky~~
     

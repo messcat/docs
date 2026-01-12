@@ -30,7 +30,7 @@ To connect your Messcat account to Zapier within a Zap using phone number and pa
     
     ![Screenshot 2024-11-27 at 12.36.32 PM.png](How%20to%20connect%20Zapier%20to%20Messcat/Screenshot_2024-11-27_at_12.36.32_PM.png)
     
-6. If you are a part of multiple teams, fill the team ID field to ensure that you only use Zapier with your selected team. To find your team ID, go to [Messcat](https://www.app.Messcat.tech/home/getting-started), click on your profile icon on the top right, and click the “Copy” button next to your team name
+6. If you are a part of multiple teams, fill the team ID field to ensure that you only use Zapier with your selected team. To find your team ID, go to [Messcat](https://www.app.messcat.ai/home/getting-started), click on your profile icon on the top right, and click the “Copy” button next to your team name
     
     ![Screenshot 2024-11-27 at 12.34.09 PM.png](How%20to%20connect%20Zapier%20to%20Messcat/Screenshot_2024-11-27_at_12.34.09_PM.png)
     
@@ -54,12 +54,12 @@ If you do not login through the phone number and password combination, you can u
 
 1. Follow steps 1 to 4 from the previous section
 2. Fill in the “Team ID” and “Refresh Token” fields in the popup
-3. To find your team ID, go to [Messcat](https://www.app.Messcat.tech/home/getting-started), click on your profile icon on the top right, and click the “Copy” button next to your team name
+3. To find your team ID, go to [Messcat](https://www.app.messcat.ai/home/getting-started), click on your profile icon on the top right, and click the “Copy” button next to your team name
     
     ![Screenshot 2024-11-27 at 12.34.09 PM.png](How%20to%20connect%20Zapier%20to%20Messcat/Screenshot_2024-11-27_at_12.34.09_PM.png)
     
 4. To get your refresh token, follow these steps:
-    1. Head over to [Messcat](https://www.app.Messcat.tech/home/getting-started), hover over the “Developer” section in sidebar on the left-hand side, and click on “Webhook”
+    1. Head over to [Messcat](https://www.app.messcat.ai/home/getting-started), hover over the “Developer” section in sidebar on the left-hand side, and click on “Webhook”
         
         ![Screenshot 2024-11-27 at 12.45.09 PM.png](How%20to%20connect%20Zapier%20to%20Messcat/Screenshot_2024-11-27_at_12.45.09_PM.png)
         

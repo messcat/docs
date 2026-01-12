@@ -50,7 +50,7 @@ You have three options for updating a ticket stage:
 ### **Option 3: Update Ticket Stage Using Triggers and App Nodes in Message Flows**
 
 1. Use **triggers** and **app nodes** in your message flows to automate the ticket stage update process.
-2. For a step-by-step guide, refer to the [documentation on using triggers and app nodes](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-the-update-ticket-node/wdSHptD6CreTaneMXs78Hc).
+2. For a step-by-step guide, refer to the [documentation on using triggers and app nodes](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-the-update-ticket-node/wdSHptD6CreTaneMXs78Hc).
 
 ---
 

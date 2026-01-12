@@ -36,4 +36,4 @@ Check out this document to see how you can use the HTTP Request node
 
 This integration allows you to leverage any of Zapier’s functions, enhancing your workflows by automating tasks directly through your message flows.
 
-Check out [this](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-connect-zapier-to-Messcat/aeQcGX2Ap54m74muFkKoSf) document to see how you can use Zapier with Messcat
+Check out [this](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-connect-zapier-to-Messcat/aeQcGX2Ap54m74muFkKoSf) document to see how you can use Zapier with Messcat

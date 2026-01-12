@@ -1,6 +1,6 @@
 # How to use Chat Actions
 
-To use any of the following options, simply go to the [Inbox](https://www.app.Messcat.tech/root-inbox/inbox) section of Messcat and right-click the chat that you want to perform the action on.
+To use any of the following options, simply go to the [Inbox](https://www.app.messcat.ai/root-inbox/inbox) section of Messcat and right-click the chat that you want to perform the action on.
 
 ![](How%20to%20use%20Chat%20Actions/Screenshot_2024-12-16_at_10.34.28_AM.png)
 

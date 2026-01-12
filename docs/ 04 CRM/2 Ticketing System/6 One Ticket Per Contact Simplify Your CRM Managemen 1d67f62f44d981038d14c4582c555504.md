@@ -32,7 +32,7 @@ Let’s dive into how this flow works and how you can tailor it to streamline yo
 
 ### **How the Flow Works**
 
-This message flow uses smart automation to check for existing tickets before creating a new one, tag contacts to track ticket status, and even re-enable ticket creation after closure. You can start using it with the provided [Message Flow Template](https://www.app.Messcat.tech/automation/templateMarket/view/118).
+This message flow uses smart automation to check for existing tickets before creating a new one, tag contacts to track ticket status, and even re-enable ticket creation after closure. You can start using it with the provided [Message Flow Template](https://www.app.messcat.ai/automation/templateMarket/view/118).
 
 Here’s a detailed breakdown:
 
@@ -48,9 +48,9 @@ Here’s a detailed breakdown:
     
     You can change the trigger to better match your use case, such as:
     
-    - **Contact Updated** ([Learn more](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/contact-updated-trigger/x2LKj5xzjxdZ8nSyPd5JiS))
-    - **New Contact** ([Learn more](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/new-contact-trigger/7K5rUuLmLCd3DmSeF2Xdt5))
-    - **New Chat Started** ([Learn more](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/new-chat-trigger/43A1hEZi9QDYBAmDPtsj5V))
+    - **Contact Updated** ([Learn more](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/contact-updated-trigger/x2LKj5xzjxdZ8nSyPd5JiS))
+    - **New Contact** ([Learn more](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/new-contact-trigger/7K5rUuLmLCd3DmSeF2Xdt5))
+    - **New Chat Started** ([Learn more](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/new-chat-trigger/43A1hEZi9QDYBAmDPtsj5V))
 
 ---
 
@@ -62,7 +62,7 @@ The **Condition Node** is at the heart of the flow. It prevents duplicate ticket
 
 - **Tag Setup**:
     - In the template, this tag is set as a **Flow Variable** for easy updates across the flow.
-    - Learn more about [Flow Variables here](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/flow-variables/vPrCvh6mu2cFo7q2iwP2aQ).
+    - Learn more about [Flow Variables here](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/flow-variables/vPrCvh6mu2cFo7q2iwP2aQ).
 
 If the tag exists, no new ticket is created. If it doesn’t, the flow moves to the next step.
 
@@ -75,10 +75,10 @@ If the tag exists, no new ticket is created. If it doesn’t, the flow moves to 
 When the Condition Node allows it, the **Create Ticket Node** is activated.
 
 - **Customizing Ticket Details**:
-    - **Ticket Name**: Use custom fields and predefined variables like `{{Name}}` or `{{Phone Number}}` to dynamically personalize ticket names. Learn about [available variables here](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/available-variables/ebJmBZuZStuzg7j3gH2zi2).
+    - **Ticket Name**: Use custom fields and predefined variables like `{{Name}}` or `{{Phone Number}}` to dynamically personalize ticket names. Learn about [available variables here](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/available-variables/ebJmBZuZStuzg7j3gH2zi2).
     - **Board Stage**: Set this using the Flow Variable **Ticket Board and Stage** for centralized management.
 
-For a deeper understanding of the Create Ticket Node, click [here](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-the-create-ticket-node/gs1JR1RbELeWv8zzPh3vvF).
+For a deeper understanding of the Create Ticket Node, click [here](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-the-create-ticket-node/gs1JR1RbELeWv8zzPh3vvF).
 
 ---
 
@@ -89,7 +89,7 @@ After creating the ticket, the **Modify Contact Node** adds the **Ticket Checker
 - **Purpose**: This tag ensures the flow skips creating another ticket if triggered again.
 - **Default Configuration**: The template uses the **Ticket Checker Flow Variable** to manage this step.
 
-For a deeper understanding of the Modify Contact Node, click [here](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-the-modify-contact-node/3gRYWsiT6aJ6wUxBEQUaUq).
+For a deeper understanding of the Modify Contact Node, click [here](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-the-modify-contact-node/3gRYWsiT6aJ6wUxBEQUaUq).
 
 ---
 
@@ -133,7 +133,7 @@ To access the flow variables follow these steps:
 
 ![image.png](One%20Ticket%20Per%20Contact%20Simplify%20Your%20CRM%20Managemen/image%205.png)
 
-Ready to optimize your ticketing system? Import the [Message Flow Template](https://www.app.Messcat.tech/automation/templateMarket/view/118), customize it to your needs, and experience a streamlined, automated CRM setup.
+Ready to optimize your ticketing system? Import the [Message Flow Template](https://www.app.messcat.ai/automation/templateMarket/view/118), customize it to your needs, and experience a streamlined, automated CRM setup.
 
 For further guidance, reach out to our support team anytime!
 

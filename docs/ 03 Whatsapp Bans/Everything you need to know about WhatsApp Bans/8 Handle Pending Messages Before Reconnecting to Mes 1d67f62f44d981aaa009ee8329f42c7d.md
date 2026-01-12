@@ -59,6 +59,6 @@ Failed messages are those that were not sent due to errors and differ from pendi
 
 ## Additional Resources
 
-For instructions on clearing pending messages for a specific chat, refer to this help [document](https://help.Messcat.tech/inbox-/fZtwDNaJhZrhvo3UfHtK5f/how-to-use-chat-actions/3H6vkTbPUzejDsjt7G3ix9#clear-all-pending-messages).
+For instructions on clearing pending messages for a specific chat, refer to this help [document](https://help.messcat.ai/inbox-/fZtwDNaJhZrhvo3UfHtK5f/how-to-use-chat-actions/3H6vkTbPUzejDsjt7G3ix9#clear-all-pending-messages).
 
 ---

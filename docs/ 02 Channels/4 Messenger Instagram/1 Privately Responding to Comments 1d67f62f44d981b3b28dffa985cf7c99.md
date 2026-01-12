@@ -20,7 +20,7 @@ Engage your audience effortlessly, automate conversations, and save hours while 
 
 Before we do automated comment replies, let’s see how comments work in the Messcat inbox & how to respond manually.
 
-1. Connect your Instagram/Messenger channel. You can read [this](https://help.Messcat.tech/channels/7CJ14joY5QWstXQmUwxMXx/instagram-channel/3N26sFSNN5zKj7FauKUsEY) article to see how to connect your channel
+1. Connect your Instagram/Messenger channel. You can read [this](https://help.messcat.ai/channels/7CJ14joY5QWstXQmUwxMXx/instagram-channel/3N26sFSNN5zKj7FauKUsEY) article to see how to connect your channel
     
     **Note:** if you have connected your channel prior to 25 Feb 2025, you will need to logout from the channel & connect it again. No contacts/tags/data will be lost by this process
     
@@ -44,7 +44,7 @@ Before we do automated comment replies, let’s see how comments work in the Mes
 
 You can use keyword replies the same way as you do to automatically respond to messages. An example below to respond to all messages (including comments) matching the word “nice”
 
-For more details & example, refer to our keyword reply guide [here](https://help.Messcat.tech/automation/3HZr12FbN7Kdihz83Qh548/how-to-setup-a-keyword-reply/3bE3YUyzG489J7mkx3dCvm)
+For more details & example, refer to our keyword reply guide [here](https://help.messcat.ai/automation/3HZr12FbN7Kdihz83Qh548/how-to-setup-a-keyword-reply/3bE3YUyzG489J7mkx3dCvm)
 
 ### Triggers
 
@@ -76,7 +76,7 @@ Upon clicking the button, you’ll see all your posts from your page in a dialog
 
 ![Screenshot 2025-03-25 at 10.27.00 AM.png](Privately%20Responding%20to%20Comments/Screenshot_2025-03-25_at_10.27.00_AM.png)
 
-Note: this feature is currently only available for Instagram pages on [beta.Messcat.tech](http://beta.Messcat.tech) Messenger pages will be available by Apr 1, 2025, and on app.Messcat.tech
+Note: this feature is currently only available for Instagram pages on [beta.messcat.ai](http://beta.messcat.ai) Messenger pages will be available by Apr 1, 2025, and on app.messcat.ai
 
 ### **Checking for Live Video**
 

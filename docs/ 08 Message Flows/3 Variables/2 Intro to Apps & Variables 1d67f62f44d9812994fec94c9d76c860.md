@@ -9,13 +9,13 @@ This power can be compounded by chaining multiple apps together that pass inform
 
 We’ll attempt to build an automated flow where all incoming inquiries are passed to our trained chatbot, and then if the chatbot couldn’t answer the query — we’ll create a ticket for it and notify our customer service (CS) teammate.
 
-For the impatient of you, you can play with the created flow by clicking [here](https://app.Messcat.tech/message-flow/slug_02b2f6c7c064cc809ba12fdccaa92282)
+For the impatient of you, you can play with the created flow by clicking [here](https://app.messcat.ai/message-flow/slug_02b2f6c7c064cc809ba12fdccaa92282)
 
-1. We’ll start by setting up our AI chatbot, which you can do [here](https://www.app.Messcat.tech/ai/aiChatbot)
+1. We’ll start by setting up our AI chatbot, which you can do [here](https://www.app.messcat.ai/ai/aiChatbot)
     
     ![Screenshot 2024-07-03 at 3.53.55 PM.png](Intro%20to%20Apps%20&%20Variables/Screenshot_2024-07-03_at_3.53.55_PM.png)
     
-2. Next, let’s create a Kanban board where we’ll put all customers whose queries the chatbot couldn’t answer, and need manual attention. You can create one in the CRM [here](https://www.app.Messcat.tech/crm/crm-board). We’ve created a simple one here with 2 stages:
+2. Next, let’s create a Kanban board where we’ll put all customers whose queries the chatbot couldn’t answer, and need manual attention. You can create one in the CRM [here](https://www.app.messcat.ai/crm/crm-board). We’ve created a simple one here with 2 stages:
     1. Customers will first be put into the “Open” stage
     2. Once we’ve answered their query, we’ll close their ticket & move into the “Closed” stage
     

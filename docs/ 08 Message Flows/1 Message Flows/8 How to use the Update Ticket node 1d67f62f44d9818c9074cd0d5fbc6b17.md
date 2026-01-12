@@ -27,7 +27,7 @@ Step 3: Select which ticket you want to update. You can choose the latest ticket
 Step 4: Select the updated CRM board and stage for your new ticket
 
 <aside>
-❗ The CRM board and stages should already be created before this step. Please click [here](https://help.Messcat.tech/crm/8L5CutnFfW9kjkXP3WPyKa/how-to-create-and-manage-crm-boards/rhEGYCLdWoawMqx6D9t2e1) to learn how
+❗ The CRM board and stages should already be created before this step. Please click [here](https://help.messcat.ai/crm/8L5CutnFfW9kjkXP3WPyKa/how-to-create-and-manage-crm-boards/rhEGYCLdWoawMqx6D9t2e1) to learn how
 
 </aside>
 

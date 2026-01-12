@@ -13,7 +13,7 @@ Note: If you're using an Android phone, please scroll down to the Android part.
 
 **Step 1:**
 
-Go to [https://app.Messcat.tech](https://app.Messcat.tech/) by using Safari
+Go to [https://app.messcat.ai](https://app.messcat.ai/) by using Safari
 
 **Step 2:**
 
@@ -37,7 +37,7 @@ Return to the main screen where you will see Messcat. Click on it to start reply
 
 **Step 1:**
 
-To install the ‘Messcat’ app, open chrome, go to [https://app.Messcat.tech](https://app.Messcat.tech/), and click the three dots on the right upper side. Then, choose ‘Install app’ in the toggle list.
+To install the ‘Messcat’ app, open chrome, go to [https://app.messcat.ai](https://app.messcat.ai/), and click the three dots on the right upper side. Then, choose ‘Install app’ in the toggle list.
 
 ![Untitled](How%20to%20Install%20the%20WebPhone%20App/Untitled.png)
 

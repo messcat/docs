@@ -12,7 +12,7 @@ Please note, by applying for **Whatsapp Business API with Messcat**, you acknowl
 
 ## Steps
 
-1. Login to [your Messcataccount](https://app.Messcat.tech/) 
+1. Login to [your Messcataccount](https://app.messcat.ai/) 
     
     ![Screenshot 2025-01-13 at 5.27.08 PM.png](How%20to%20Create%20Verify%20Connect%20your%20Whatsapp%20Busines%201d67-0388/Screenshot_2025-01-13_at_5.27.08_PM.png)
     
@@ -71,7 +71,7 @@ Please note, by applying for **Whatsapp Business API with Messcat**, you acknowl
     
 3. **Update Payment Details:**
     - After the application, ensure you **add a payment card on Meta** to activate the WABA channel successfully and enable messaging.
-    - Please refer to [this help doc](https://help.Messcat.tech/getting-started/922MY2B1hVzdtQHBsTicEx/how-to-set-up-payments-on-facebook-business-manager-for-Messcat-waba-account/ioUNadacYnUF7gHaqzWx9t) for detailed steps regarding How to Set Up Payments on Facebook Business Manager.
+    - Please refer to [this help doc](https://help.messcat.ai/getting-started/922MY2B1hVzdtQHBsTicEx/how-to-set-up-payments-on-facebook-business-manager-for-Messcat-waba-account/ioUNadacYnUF7gHaqzWx9t) for detailed steps regarding How to Set Up Payments on Facebook Business Manager.
 4. **Check WABA Approval Status:**
     - The Channel Card will display your WABA details with a **Pending Approval** status.
     - Click **Refresh WABA Details** to check the latest status.

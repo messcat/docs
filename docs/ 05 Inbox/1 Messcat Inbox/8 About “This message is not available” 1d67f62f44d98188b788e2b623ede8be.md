@@ -30,4 +30,4 @@ This is a temporary issue that usually resolves itself. Please wait a few minute
 
 ![Untitled](About%20%E2%80%9CThis%20message%20is%20not%20available%E2%80%9D/Untitled.png)
 
-If you notice that your automatic keyword replies aren't being delivered to new leads due to a "Message is not available" error, we're here to help! Please follow our detailed guide "[**How to fix "Message is not available" issue**](https://help.Messcat.tech/inbox-/fZtwDNaJhZrhvo3UfHtK5f/how-to-fix-%E2%80%9Cmessage-is-not-available%E2%80%9D-issue/eWRaHBJDyKQnDZmv2SrVaq)" to resolve this.
+If you notice that your automatic keyword replies aren't being delivered to new leads due to a "Message is not available" error, we're here to help! Please follow our detailed guide "[**How to fix "Message is not available" issue**](https://help.messcat.ai/inbox-/fZtwDNaJhZrhvo3UfHtK5f/how-to-fix-%E2%80%9Cmessage-is-not-available%E2%80%9D-issue/eWRaHBJDyKQnDZmv2SrVaq)" to resolve this.

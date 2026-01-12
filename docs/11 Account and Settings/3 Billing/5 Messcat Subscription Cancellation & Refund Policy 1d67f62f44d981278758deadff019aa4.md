@@ -25,7 +25,7 @@ To be eligible for a refund, you must cancel your subscription through the Messc
 
 1. **Proof of Subscription Cancellation**: Only cancellations made through our system are accepted. Provide evidence that you canceled your subscription **before the renewal date**.
 2. **Technical Issues with Cancellation**: If the system cancellation button is not functioning, please supply a screenshot of the error message and contact our support team ([https://wa.me/+60164516816](https://wa.me/+60164516816)) immediately.
-3. **Payment Verification**: Submit the payment email and a copy of your receipt for verification to our support hotline: ([https://wa.me/+60164516816](https://wa.me/+60164516816)) / email: info@Messcat.tech
+3. **Payment Verification**: Submit the payment email and a copy of your receipt for verification to our support hotline: ([https://wa.me/+60164516816](https://wa.me/+60164516816)) / email: info@messcat.ai
 
 Failure to provide the required information may result in delays or denial of your refund request.
 
@@ -36,7 +36,7 @@ Failure to provide the required information may result in delays or denial of yo
 - ***Messcat does not process cancellations via email or phone; all cancellations must be done directly through your account.***
 - Cancellations must be completed **before your renewal date** to avoid auto-renewal charges. Once charged, the refund will not be provided.
 
-1. Log in to your **Messcat Account here:** [https://www.app.Messcat.tech/](https://www.app.Messcat.tech/)
+1. Log in to your **Messcat Account here:** [https://www.app.messcat.ai/](https://www.app.messcat.ai/)
 2. Once logged in, go to **Settings**. Click on the **Billing** section.
 
 ![img_v3_02gl_1e728a64-e224-4628-8d86-c66714bc10hu.png](Messcat%20Subscription%20Cancellation%20&%20Refund%20Policy/img_v3_02gl_1e728a64-e224-4628-8d86-c66714bc10hu.png)
@@ -60,7 +60,7 @@ To submit a refund request, please provide the following information to our supp
 - **Invoice or Receipt Number**
 - **Description of the Issue** (if applicable)
 
-Send your request to info@Messcat.tech within **7 days** of the billing date.
+Send your request to info@messcat.ai within **7 days** of the billing date.
 
 ## 5. Processing Time for Refund Requests
 

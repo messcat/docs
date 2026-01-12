@@ -10,7 +10,7 @@ Template messages are a specialized form of communication utilized in marketing,
 
 ## How to Submit Templates for Review (WABA)
 
-Please refer to: [submit template for review](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-fix-%E2%80%9Ca-template-is-required-to-start-a-new-conversation%E2%80%9D-issue/5JcftRTEFQudb971cteGPw)
+Please refer to: [submit template for review](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-fix-%E2%80%9Ca-template-is-required-to-start-a-new-conversation%E2%80%9D-issue/5JcftRTEFQudb971cteGPw)
 
 ## Message Flow Limitations (WABA)
 

@@ -36,7 +36,7 @@ The **AI Chatbot node** allows you to connect smart chat agents to your automate
     
     > ✅ Tip: If you haven’t created a bot yet, click the ➕ button beside the dropdown to create a new AI agent.
     
-    You can click [here](https://help.Messcat.tech/ai/7L37Eyti5StVK8ug6B65tV/how-to-setup-ai-chatbot/vygEq2bPKwy4BXgF4TU1cn) to learn how to create one
+    You can click [here](https://help.messcat.ai/ai/7L37Eyti5StVK8ug6B65tV/how-to-setup-ai-chatbot/vygEq2bPKwy4BXgF4TU1cn) to learn how to create one
     > 
 - You’ll see a list of your AI agents (with their creation dates for easy reference).
 - Select one to link it to this step.

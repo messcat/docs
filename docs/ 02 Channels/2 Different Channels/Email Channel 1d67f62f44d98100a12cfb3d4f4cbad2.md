@@ -36,7 +36,7 @@ Elevate Your Marketing Strategy with Messcat's brand-new email integration. You 
 ## **Configure Email Channel**
 
 - Ensure you use a private domain email address associated with your company name.
-    - For example [info@Messcat.tech](mailto:info@Messcat.tech)
+    - For example [info@messcat.ai](mailto:info@messcat.ai)
     - Public domain addresses like [gmail.com](http://gmail.com) won't work.
         
         ![Screenshot 2025-01-31 at 4.26.34 PM.png](Email%20Channel/Screenshot_2025-01-31_at_4.26.34_PM.png)

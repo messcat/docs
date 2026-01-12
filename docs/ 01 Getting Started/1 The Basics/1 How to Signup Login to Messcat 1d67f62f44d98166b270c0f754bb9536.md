@@ -4,7 +4,7 @@ Logging in to Messcat is a straightforward process that allows you to access and
 
 ### Sign Up
 
-**Step 1:** Head to Messcat [https://app.Messcat.tech](https://app.Messcat.tech/)
+**Step 1:** Head to Messcat [https://app.messcat.ai](https://app.messcat.ai/)
 
 **Step 2:** Click「 Sign Up 」
 
@@ -17,7 +17,7 @@ Alternatively, you can also use your Google Credentials to Sign Up.
 ### Login
 
 **Step 1:** 
-Go to Messcat [https://app.Messcat.tech](https://app.Messcat.tech/), and simply input your Phone Number and Password and click *“Login*”.
+Go to Messcat [https://app.messcat.ai](https://app.messcat.ai/), and simply input your Phone Number and Password and click *“Login*”.
 
 or
 Use the *“Sign in with Google”* Button, in case you signed up using Google. 

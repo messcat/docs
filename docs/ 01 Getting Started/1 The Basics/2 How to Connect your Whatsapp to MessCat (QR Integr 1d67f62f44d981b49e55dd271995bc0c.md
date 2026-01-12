@@ -41,7 +41,7 @@ After you scan the code, Messcat will start syncing with your WhatsApp. Wait abo
 
 ### **Why don't Read/Unread marks match sometimes?**
 
-**Answer:** Sometimes WhatsApp doesn't tell Messcat right away when you read a message. Because of this, the read/unread marks might not always match perfectly between WhatsApp and Messcat. (Read more here: [Understanding Chat Action Sync](https://help.Messcat.tech/channels/7CJ14joY5QWstXQmUwxMXx/understanding-chat-action-sync/3ERGcvXVFGkpdJWnjVVgbN))
+**Answer:** Sometimes WhatsApp doesn't tell Messcat right away when you read a message. Because of this, the read/unread marks might not always match perfectly between WhatsApp and Messcat. (Read more here: [Understanding Chat Action Sync](https://help.messcat.ai/channels/7CJ14joY5QWstXQmUwxMXx/understanding-chat-action-sync/3ERGcvXVFGkpdJWnjVVgbN))
 
 ## Helpful Tips
 

@@ -23,4 +23,4 @@ You have three options for creating a ticket:
 ### Option 3: Create a Ticket Using Triggers and App Nodes in Message Flows
 
 1. Use triggers and app nodes within your message flows to automate the creation of new tickets.
-2. For detailed instructions, refer to the [documentation on using triggers and app nodes](https://help.Messcat.tech/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-the-create-ticket-node/gs1JR1RbELeWv8zzPh3vvF).
+2. For detailed instructions, refer to the [documentation on using triggers and app nodes](https://help.messcat.ai/message-flows/kSYFmwLcqbtLQQAhJb4Sek/how-to-use-the-create-ticket-node/gs1JR1RbELeWv8zzPh3vvF).
