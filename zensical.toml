@@ -71,6 +71,7 @@ Copyright &copy; 2025 ADHIRAJ TECHNOLOGY PARTNERS - FZCO. All rights reserved.
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
 [project.theme]
+logo = "assets/mclogo.svg"
 
 # change this to "classic" to use the traditional Material for MkDocs look.
 #variant = "classic"
@@ -295,8 +296,6 @@ toggle.name = "Switch to light mode"
 #[project.theme.icon]
 #logo = "assets/logo.png"
 #repo = "lucide/smile"
-[project.theme.logo]
-logo = "assets/logo.png"
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
