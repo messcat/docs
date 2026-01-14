@@ -93,7 +93,7 @@ Copyright &copy; 2025 ADHIRAJ TECHNOLOGY PARTNERS - FZCO. All rights reserved.
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
-# favicon = "assets/Faviconsvg.ico"
+favicon = "assets/Faviconsvg.ico"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -295,6 +295,7 @@ toggle.name = "Switch to light mode"
 #[project.theme.icon]
 #logo = "assets/logo.png"
 #repo = "lucide/smile"
+logo = "assets/logo.png"
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
