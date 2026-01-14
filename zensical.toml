@@ -295,6 +295,7 @@ toggle.name = "Switch to light mode"
 #[project.theme.icon]
 #logo = "assets/logo.png"
 #repo = "lucide/smile"
+[project.theme.logo]
 logo = "assets/logo.png"
 
 # ----------------------------------------------------------------------------
